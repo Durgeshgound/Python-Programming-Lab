@@ -1,0 +1,4 @@
+Hello, I'm Durgesh
+This file is created using write mode.
+This line is added using append mode.
+Appending does not delete old data.
